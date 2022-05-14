@@ -1,4 +1,4 @@
 AuthName "Secure directory"
-AuthUserFile /Users/timobrien/Desktop/Assign3/.htpasswd
+AuthUserFile ../.htpasswd
 AuthType Basic
 require valid-user
