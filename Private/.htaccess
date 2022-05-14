@@ -1,0 +1,4 @@
+AuthName "Secure directory"
+AuthUserFile /Users/timobrien/Desktop/Assign3/.htpasswd
+AuthType Basic
+require valid-user
