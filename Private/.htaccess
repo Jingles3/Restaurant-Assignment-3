@@ -1,4 +1,4 @@
-AuthName "Secure directory"
-AuthUserFile ../.htpasswd
 AuthType Basic
+AuthName "Secure directory"
+AuthUserFile "../.htpasswd"
 require valid-user
