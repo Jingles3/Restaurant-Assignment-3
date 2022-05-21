@@ -8,7 +8,7 @@ html, body {
     padding:0;
     }
     
-/*style the links KEEP??*/
+/*style the links */
 .link {
     color: white;
     text-decoration: none;
@@ -20,11 +20,11 @@ html, body {
 }
 
 
-/* Menu KEEP */
+/* Menu */
 .menu{margin-left: 20%;
 margin-right:20%}
 
-/*Responsive layout - menu KEEP*/
+/*Responsive layout - menu */
 @media screen and (max-width:800px) {
     .menu {
        margin-left:2.5%;
@@ -32,7 +32,7 @@ margin-right:20%}
     }   
 }
 
-/** Additional style for the privacy page **/
+/*Additional style for the privacy page */
 #privacy{
     text-align: left;
 }
